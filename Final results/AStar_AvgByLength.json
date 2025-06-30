@@ -1,0 +1,76 @@
+{
+    "resultData": [
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 1,
+            "avgExecutionTime": 11.473134994506836,
+            "avgMemoryUsed": 165.60000610351563,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 2,
+            "avgExecutionTime": 8.974410057067871,
+            "avgMemoryUsed": 349.6000061035156,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 3,
+            "avgExecutionTime": 23.320384979248048,
+            "avgMemoryUsed": 1891.800048828125,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 4,
+            "avgExecutionTime": 163.1195526123047,
+            "avgMemoryUsed": 16130.599609375,
+            "avgSolutionLength": 5.400000095367432,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 5,
+            "avgExecutionTime": 631.6852416992188,
+            "avgMemoryUsed": 49728.19921875,
+            "avgSolutionLength": 5.199999809265137,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 6,
+            "avgExecutionTime": 1356.053955078125,
+            "avgMemoryUsed": 73599.796875,
+            "avgSolutionLength": 6.599999904632568,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 7,
+            "avgExecutionTime": 18982.791015625,
+            "avgMemoryUsed": 102375.203125,
+            "avgSolutionLength": 7.400000095367432,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 8,
+            "avgExecutionTime": 67832.890625,
+            "avgMemoryUsed": 345297.40625,
+            "avgSolutionLength": 9.399999618530274,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 9,
+            "avgExecutionTime": 186194.796875,
+            "avgMemoryUsed": 626230.1875,
+            "avgSolutionLength": 9.600000381469727,
+            "successRate": 1.0
+        }
+    ]
+}

@@ -1,0 +1,454 @@
+{
+    "resultData": [
+        {
+            "testId": 0,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUUUBBRRRRFFDDDDFFLLLLBB",
+            "avgExecutionTime": 33175.44140625,
+            "avgMemoryUsed": 342753.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.75
+        },
+        {
+            "testId": 1,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUUUFFRRLLFFDDDDBBLLRRBB",
+            "avgExecutionTime": 21980.328125,
+            "avgMemoryUsed": 203956.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.75
+        },
+        {
+            "testId": 2,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUDDLRLRFFFFUUDDLRLRBBBB",
+            "avgExecutionTime": 31468.970703125,
+            "avgMemoryUsed": 193770.0,
+            "avgSolutionLength": 10.666666984558106,
+            "successRate": 0.75
+        },
+        {
+            "testId": 3,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "DDUURLRLFFFFDDUURLRLBBBB",
+            "avgExecutionTime": 9430.1015625,
+            "avgMemoryUsed": 104984.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 4,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "FUFURRRRDFDFBDBDLLLLBUBU",
+            "avgExecutionTime": 20199.521484375,
+            "avgMemoryUsed": 136687.0,
+            "avgSolutionLength": 7.666666507720947,
+            "successRate": 0.75
+        },
+        {
+            "testId": 5,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "UUUUFFLLLLBBDDDDBBRRRRFF",
+            "avgExecutionTime": 30709.74609375,
+            "avgMemoryUsed": 225480.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.75
+        },
+        {
+            "testId": 6,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "ULRDRDRDFBFBLUDRLULUFBFB",
+            "avgExecutionTime": 35362.22265625,
+            "avgMemoryUsed": 194764.0,
+            "avgSolutionLength": 10.666666984558106,
+            "successRate": 0.75
+        },
+        {
+            "testId": 7,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "UULLURLDFFBBDDRRLDURBBFF",
+            "avgExecutionTime": 56706.76171875,
+            "avgMemoryUsed": 122746.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 8,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "RURUBBDRDRFFLLDDFFLULUBB",
+            "avgExecutionTime": 42216.046875,
+            "avgMemoryUsed": 264721.0,
+            "avgSolutionLength": 10.5,
+            "successRate": 0.5
+        },
+        {
+            "testId": 9,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "LLUURUDLFFBBRRDDDLRUBBFF",
+            "avgExecutionTime": 21768.94921875,
+            "avgMemoryUsed": 337839.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.75
+        },
+        {
+            "testId": 10,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUFFLRLRDUDUBBDDRLRLBFBF",
+            "avgExecutionTime": 36772.06640625,
+            "avgMemoryUsed": 153326.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.5
+        },
+        {
+            "testId": 11,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUBRULRRLBUFLDFDRDLBFFBD",
+            "avgExecutionTime": 51475.6015625,
+            "avgMemoryUsed": 159849.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.5
+        },
+        {
+            "testId": 12,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "LBDURDFURFBLUDFRUBDLLFBR",
+            "avgExecutionTime": 71967.5625,
+            "avgMemoryUsed": 182687.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 13,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUUFRRDFFDFLDBDRLLBLBBUR",
+            "avgExecutionTime": 53533.78125,
+            "avgMemoryUsed": 212904.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.5
+        },
+        {
+            "testId": 14,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "BDBDRRLLUBUBFDFDRLRLFUFU",
+            "avgExecutionTime": 25829.140625,
+            "avgMemoryUsed": 325340.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.75
+        },
+        {
+            "testId": 15,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "LDURBFLURDBFLUDRBFRDLUBF",
+            "avgExecutionTime": 45246.9375,
+            "avgMemoryUsed": 77718.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.5
+        },
+        {
+            "testId": 16,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "BLUFRDLBRDUBFDURUFRLFLDB",
+            "avgExecutionTime": 59382.2421875,
+            "avgMemoryUsed": 162676.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 17,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "RFRDBDRUFLBDUBLLUUDLRBFF",
+            "avgExecutionTime": 58129.296875,
+            "avgMemoryUsed": 143983.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 18,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "DULFDLUFBLRFBRUDBURDFLRB",
+            "avgExecutionTime": 62432.65625,
+            "avgMemoryUsed": 237033.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 19,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "DBFRDLBBLFDRLDUUBUFFULRR",
+            "avgExecutionTime": 71688.484375,
+            "avgMemoryUsed": 340990.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 20,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DRUBRFFLRUBUULDBRFFLDBDL",
+            "avgExecutionTime": 57989.515625,
+            "avgMemoryUsed": 289286.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.5
+        },
+        {
+            "testId": 21,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DUBURLURRFFBDLDFRULLFBDB",
+            "avgExecutionTime": 70659.7421875,
+            "avgMemoryUsed": 272186.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 22,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "RUFLDBFRDBFDLRFBBLRULDUU",
+            "avgExecutionTime": 51301.5234375,
+            "avgMemoryUsed": 244935.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.5
+        },
+        {
+            "testId": 23,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DBFULDDRDBFRLFUURLRULBFB",
+            "avgExecutionTime": 53526.66796875,
+            "avgMemoryUsed": 265497.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 24,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "UDLFULDFBRFBLRDDBUFUBRRL",
+            "avgExecutionTime": 74014.2109375,
+            "avgMemoryUsed": 519247.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 25,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "FUFBURRFRLDDBBURDDLLBLUF",
+            "avgExecutionTime": 72075.5703125,
+            "avgMemoryUsed": 845656.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 26,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "LBFFURLLRRUDBFLUUDBRDFBD",
+            "avgExecutionTime": 72393.75,
+            "avgMemoryUsed": 845946.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 27,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "DFBLURBFRFDLLUDDBUBFULRR",
+            "avgExecutionTime": 56019.7265625,
+            "avgMemoryUsed": 703482.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 28,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "ULDFUBBRLRRLDURBFFDFDLUB",
+            "avgExecutionTime": 71245.46875,
+            "avgMemoryUsed": 844881.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 29,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "BRURDUBLFFLRDDFURLLBFUBD",
+            "avgExecutionTime": 53906.328125,
+            "avgMemoryUsed": 724000.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 30,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "LBBRFRFRLUBDURDBUDFLDFUL",
+            "avgExecutionTime": 71698.953125,
+            "avgMemoryUsed": 846549.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 31,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "FLRLBFDUUULLFBRFRBDDUDRB",
+            "avgExecutionTime": 71194.78125,
+            "avgMemoryUsed": 844571.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 32,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "UFDLULRFBFRBFUDDLLBUDBRR",
+            "avgExecutionTime": 72719.4453125,
+            "avgMemoryUsed": 846382.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 33,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "LDFFURBULRDDRLURFUBBFDBL",
+            "avgExecutionTime": 72464.1796875,
+            "avgMemoryUsed": 846429.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 34,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "FRFBRFLUUUDBRDBLDRLBDLFU",
+            "avgExecutionTime": 72540.4140625,
+            "avgMemoryUsed": 846966.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 35,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RFLDBLRRBLUBRUUDDULFDFBF",
+            "avgExecutionTime": 72801.453125,
+            "avgMemoryUsed": 846862.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 36,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RDRLFLURFDUBFLBBDURLBFUD",
+            "avgExecutionTime": 72440.34375,
+            "avgMemoryUsed": 846570.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 37,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "DDBLDFFRUBBURLRDFLUULRBF",
+            "avgExecutionTime": 72499.421875,
+            "avgMemoryUsed": 846831.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 38,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RFUBLDLRLDLFFUDUUBBDRBFR",
+            "avgExecutionTime": 71782.828125,
+            "avgMemoryUsed": 846202.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 39,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "LFRFUDDBURDLLBBRUBLFRFDU",
+            "avgExecutionTime": 71558.265625,
+            "avgMemoryUsed": 846067.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 40,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DRUUBDRLLRDFLDUFBBFFBLUR",
+            "avgExecutionTime": 71754.0546875,
+            "avgMemoryUsed": 846496.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 41,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DBRULRFLUBFURLRDBBUDDLFF",
+            "avgExecutionTime": 72127.8515625,
+            "avgMemoryUsed": 846711.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 42,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DLFFLUUDDUUFBRFBBLDRBLRR",
+            "avgExecutionTime": 71411.3359375,
+            "avgMemoryUsed": 846195.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 43,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "FDFULBBLRBDUBRUDUDLLRRFF",
+            "avgExecutionTime": 72560.046875,
+            "avgMemoryUsed": 847013.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 44,
+            "algorithmName": "DFS",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "UFBLDDFLRBDURLFURULBRFBD",
+            "avgExecutionTime": 71602.8125,
+            "avgMemoryUsed": 846642.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        }
+    ]
+}

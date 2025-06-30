@@ -1,0 +1,454 @@
+{
+    "resultData": [
+        {
+            "testId": 0,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUUUBBRRRRFFDDDDFFLLLLBB",
+            "avgExecutionTime": 19.74967384338379,
+            "avgMemoryUsed": 168.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 1,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUUUFFRRLLFFDDDDBBLLRRBB",
+            "avgExecutionTime": 9.269024848937989,
+            "avgMemoryUsed": 167.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 2,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUDDLRLRFFFFUUDDLRLRBBBB",
+            "avgExecutionTime": 10.4864501953125,
+            "avgMemoryUsed": 157.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 3,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "DDUURLRLFFFFDDUURLRLBBBB",
+            "avgExecutionTime": 8.858024597167969,
+            "avgMemoryUsed": 168.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 4,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "FUFURRRRDFDFBDBDLLLLBUBU",
+            "avgExecutionTime": 9.0024995803833,
+            "avgMemoryUsed": 168.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 5,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "UUUUFFLLLLBBDDDDBBRRRRFF",
+            "avgExecutionTime": 8.630624771118164,
+            "avgMemoryUsed": 349.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 6,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "ULRDRDRDFBFBLUDRLULUFBFB",
+            "avgExecutionTime": 10.101524353027344,
+            "avgMemoryUsed": 345.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 7,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "UULLURLDFFBBDDRRLDURBBFF",
+            "avgExecutionTime": 8.245750427246094,
+            "avgMemoryUsed": 350.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 8,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "RURUBBDRDRFFLLDDFFLULUBB",
+            "avgExecutionTime": 10.037400245666504,
+            "avgMemoryUsed": 352.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 9,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "LLUURUDLFFBBRRDDDLRUBBFF",
+            "avgExecutionTime": 7.856749534606934,
+            "avgMemoryUsed": 352.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 10,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUFFLRLRDUDUBBDDRLRLBFBF",
+            "avgExecutionTime": 26.31687355041504,
+            "avgMemoryUsed": 2324.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 11,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUBRULRRLBUFLDFDRDLBFFBD",
+            "avgExecutionTime": 28.015899658203126,
+            "avgMemoryUsed": 2544.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 12,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "LBDURDFURFBLUDFRUBDLLFBR",
+            "avgExecutionTime": 14.404300689697266,
+            "avgMemoryUsed": 768.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 13,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUUFRRDFFDFLDBDRLLBLBBUR",
+            "avgExecutionTime": 36.256324768066409,
+            "avgMemoryUsed": 3271.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 14,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "BDBDRRLLUBUBFDFDRLRLFUFU",
+            "avgExecutionTime": 11.608526229858399,
+            "avgMemoryUsed": 552.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 15,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "LDURBFLURDBFLUDRBFRDLUBF",
+            "avgExecutionTime": 29.384048461914064,
+            "avgMemoryUsed": 2334.0,
+            "avgSolutionLength": 6.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 16,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "BLUFRDLBRDUBFDURUFRLFLDB",
+            "avgExecutionTime": 499.28497314453127,
+            "avgMemoryUsed": 47813.0,
+            "avgSolutionLength": 6.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 17,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "RFRDBDRUFLBDUBLLUUDLRBFF",
+            "avgExecutionTime": 120.74714660644531,
+            "avgMemoryUsed": 12829.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 18,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "DULFDLUFBLRFBRUDBURDFLRB",
+            "avgExecutionTime": 47.82490158081055,
+            "avgMemoryUsed": 4478.0,
+            "avgSolutionLength": 6.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 19,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "DBFRDLBBLFDRLDUUBUFFULRR",
+            "avgExecutionTime": 118.35675048828125,
+            "avgMemoryUsed": 13199.0,
+            "avgSolutionLength": 4.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 20,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DRUBRFFLRUBUULDBRFFLDBDL",
+            "avgExecutionTime": 202.59271240234376,
+            "avgMemoryUsed": 23337.0,
+            "avgSolutionLength": 6.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 21,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DUBURLURRFFBDLDFRULLFBDB",
+            "avgExecutionTime": 1339.8245849609375,
+            "avgMemoryUsed": 42395.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 22,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "RUFLDBFRDBFDLRFBBLRULDUU",
+            "avgExecutionTime": 943.5703125,
+            "avgMemoryUsed": 105475.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 23,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DBFULDDRDBFRLFUURLRULBFB",
+            "avgExecutionTime": 346.3092041015625,
+            "avgMemoryUsed": 40617.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 24,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "UDLFULDFBRFBLRDDBUFUBRRL",
+            "avgExecutionTime": 326.1293640136719,
+            "avgMemoryUsed": 36817.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 25,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "FUFBURRFRLDDBBURDDLLBLUF",
+            "avgExecutionTime": 3262.23974609375,
+            "avgMemoryUsed": 90667.0,
+            "avgSolutionLength": 7.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 26,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "LBFFURLLRRUDBFLUUDBRDFBD",
+            "avgExecutionTime": 574.0053100585938,
+            "avgMemoryUsed": 79226.0,
+            "avgSolutionLength": 7.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 27,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "DFBLURBFRFDLLUDDBUBFULRR",
+            "avgExecutionTime": 529.5130615234375,
+            "avgMemoryUsed": 74492.0,
+            "avgSolutionLength": 6.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 28,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "ULDFUBBRLRRLDURBFFDFDLUB",
+            "avgExecutionTime": 1982.529052734375,
+            "avgMemoryUsed": 61158.0,
+            "avgSolutionLength": 7.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 29,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "BRURDUBLFFLRDDFURLLBFUBD",
+            "avgExecutionTime": 431.9826965332031,
+            "avgMemoryUsed": 62456.0,
+            "avgSolutionLength": 6.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 30,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "LBBRFRFRLUBDURDBUDFLDFUL",
+            "avgExecutionTime": 62411.9140625,
+            "avgMemoryUsed": 162514.0,
+            "avgSolutionLength": 7.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 31,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "FLRLBFDUUULLFBRFRBDDUDRB",
+            "avgExecutionTime": 187.96636962890626,
+            "avgMemoryUsed": 37442.0,
+            "avgSolutionLength": 8.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 32,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "UFDLULRFBFRBFUDDLLBUDBRR",
+            "avgExecutionTime": 4122.5517578125,
+            "avgMemoryUsed": 115355.0,
+            "avgSolutionLength": 7.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 33,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "LDFFURBULRDDRLURFUBBFDBL",
+            "avgExecutionTime": 1344.7822265625,
+            "avgMemoryUsed": 89052.0,
+            "avgSolutionLength": 7.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 34,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "FRFBRFLUUUDBRDBLDRLBDLFU",
+            "avgExecutionTime": 26846.74609375,
+            "avgMemoryUsed": 107513.0,
+            "avgSolutionLength": 8.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 35,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RFLDBLRRBLUBRUUDDULFDFBF",
+            "avgExecutionTime": 134686.21875,
+            "avgMemoryUsed": 372925.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 36,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RDRLFLURFDUBFLBBDURLBFUD",
+            "avgExecutionTime": 16340.0380859375,
+            "avgMemoryUsed": 339769.0,
+            "avgSolutionLength": 8.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 37,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "DDBLDFFRUBBURLRDFLUULRBF",
+            "avgExecutionTime": 73948.4921875,
+            "avgMemoryUsed": 360296.0,
+            "avgSolutionLength": 9.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 38,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RFUBLDLRLDLFFUDUUBBDRBFR",
+            "avgExecutionTime": 20172.46875,
+            "avgMemoryUsed": 305791.0,
+            "avgSolutionLength": 10.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 39,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "LFRFUDDBURDLLBBRUBLFRFDU",
+            "avgExecutionTime": 94017.25,
+            "avgMemoryUsed": 347706.0,
+            "avgSolutionLength": 9.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 40,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DRUUBDRLLRDFLDUFBBFFBLUR",
+            "avgExecutionTime": 223542.625,
+            "avgMemoryUsed": 569573.0,
+            "avgSolutionLength": 9.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 41,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DBRULRFLUBFURLRDBBUDDLFF",
+            "avgExecutionTime": 63754.171875,
+            "avgMemoryUsed": 559972.0,
+            "avgSolutionLength": 10.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 42,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DLFFLUUDDUUFBRFBBLDRBLRR",
+            "avgExecutionTime": 204544.125,
+            "avgMemoryUsed": 565179.0,
+            "avgSolutionLength": 9.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 43,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "FDFULBBLRBDUBRUDUDLLRRFF",
+            "avgExecutionTime": 105299.9375,
+            "avgMemoryUsed": 564110.0,
+            "avgSolutionLength": 9.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 44,
+            "algorithmName": "AStar",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "UFBLDDFLRBDURLFURULBRFBD",
+            "avgExecutionTime": 333833.09375,
+            "avgMemoryUsed": 872317.0,
+            "avgSolutionLength": 11.0,
+            "successRate": 1.0
+        }
+    ]
+}

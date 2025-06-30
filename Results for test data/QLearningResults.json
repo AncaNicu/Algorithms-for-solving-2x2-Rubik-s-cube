@@ -1,0 +1,454 @@
+{
+    "resultData": [
+        {
+            "testId": 0,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUUUBBRRRRFFDDDDFFLLLLBB",
+            "avgExecutionTime": 134211.65625,
+            "avgMemoryUsed": 610146.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 1,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUUUFFRRLLFFDDDDBBLLRRBB",
+            "avgExecutionTime": 107115.8359375,
+            "avgMemoryUsed": 614136.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 2,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUDDLRLRFFFFUUDDLRLRBBBB",
+            "avgExecutionTime": 105513.03125,
+            "avgMemoryUsed": 604525.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 3,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "DDUURLRLFFFFDDUURLRLBBBB",
+            "avgExecutionTime": 106495.4453125,
+            "avgMemoryUsed": 610623.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 4,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "FUFURRRRDFDFBDBDLLLLBUBU",
+            "avgExecutionTime": 108127.484375,
+            "avgMemoryUsed": 639495.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 5,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "UUUUFFLLLLBBDDDDBBRRRRFF",
+            "avgExecutionTime": 157419.546875,
+            "avgMemoryUsed": 787513.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 6,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "ULRDRDRDFBFBLUDRLULUFBFB",
+            "avgExecutionTime": 160028.375,
+            "avgMemoryUsed": 842656.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 7,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "UULLURLDFFBBDDRRLDURBBFF",
+            "avgExecutionTime": 159465.5625,
+            "avgMemoryUsed": 818164.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 8,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "RURUBBDRDRFFLLDDFFLULUBB",
+            "avgExecutionTime": 161554.0625,
+            "avgMemoryUsed": 847141.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 9,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "LLUURUDLFFBBRRDDDLRUBBFF",
+            "avgExecutionTime": 160654.390625,
+            "avgMemoryUsed": 800218.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 10,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUFFLRLRDUDUBBDDRLRLBFBF",
+            "avgExecutionTime": 199192.0625,
+            "avgMemoryUsed": 979835.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 11,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUBRULRRLBUFLDFDRDLBFFBD",
+            "avgExecutionTime": 203890.09375,
+            "avgMemoryUsed": 944088.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 12,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "LBDURDFURFBLUDFRUBDLLFBR",
+            "avgExecutionTime": 202639.25,
+            "avgMemoryUsed": 932921.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 13,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUUFRRDFFDFLDBDRLLBLBBUR",
+            "avgExecutionTime": 201944.28125,
+            "avgMemoryUsed": 958501.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 14,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "BDBDRRLLUBUBFDFDRLRLFUFU",
+            "avgExecutionTime": 195894.109375,
+            "avgMemoryUsed": 954260.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 15,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "LDURBFLURDBFLUDRBFRDLUBF",
+            "avgExecutionTime": 229929.25,
+            "avgMemoryUsed": 1020764.0,
+            "avgSolutionLength": 4.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 16,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "BLUFRDLBRDUBFDURUFRLFLDB",
+            "avgExecutionTime": 236600.6875,
+            "avgMemoryUsed": 1068016.0,
+            "avgSolutionLength": 4.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 17,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "RFRDBDRUFLBDUBLLUUDLRBFF",
+            "avgExecutionTime": 225341.03125,
+            "avgMemoryUsed": 1070949.0,
+            "avgSolutionLength": 4.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 18,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "DULFDLUFBLRFBRUDBURDFLRB",
+            "avgExecutionTime": 217369.171875,
+            "avgMemoryUsed": 1026401.0,
+            "avgSolutionLength": 4.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 19,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "DBFRDLBBLFDRLDUUBUFFULRR",
+            "avgExecutionTime": 231164.5625,
+            "avgMemoryUsed": 1048909.0,
+            "avgSolutionLength": 4.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 20,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DRUBRFFLRUBUULDBRFFLDBDL",
+            "avgExecutionTime": 264794.34375,
+            "avgMemoryUsed": 1171009.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 21,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DUBURLURRFFBDLDFRULLFBDB",
+            "avgExecutionTime": 336312.46875,
+            "avgMemoryUsed": 1481805.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 22,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "RUFLDBFRDBFDLRFBBLRULDUU",
+            "avgExecutionTime": 250139.34375,
+            "avgMemoryUsed": 1339131.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 23,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DBFULDDRDBFRLFUURLRULBFB",
+            "avgExecutionTime": 245503.046875,
+            "avgMemoryUsed": 1510523.0,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 24,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "UDLFULDFBRFBLRDDBUFUBRRL",
+            "avgExecutionTime": 264307.9375,
+            "avgMemoryUsed": 1503006.0,
+            "avgSolutionLength": 5.75,
+            "successRate": 1.0
+        },
+        {
+            "testId": 25,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "FUFBURRFRLDDBBURDDLLBLUF",
+            "avgExecutionTime": 310949.8125,
+            "avgMemoryUsed": 1638265.0,
+            "avgSolutionLength": 8.0,
+            "successRate": 0.5
+        },
+        {
+            "testId": 26,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "LBFFURLLRRUDBFLUUDBRDFBD",
+            "avgExecutionTime": 262179.1875,
+            "avgMemoryUsed": 1483052.0,
+            "avgSolutionLength": 6.25,
+            "successRate": 1.0
+        },
+        {
+            "testId": 27,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "DFBLURBFRFDLLUDDBUBFULRR",
+            "avgExecutionTime": 308623.1875,
+            "avgMemoryUsed": 1815480.0,
+            "avgSolutionLength": 6.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 28,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "ULDFUBBRLRRLDURBFFDFDLUB",
+            "avgExecutionTime": 312802.8125,
+            "avgMemoryUsed": 1815374.0,
+            "avgSolutionLength": 6.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 29,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "BRURDUBLFFLRDDFURLLBFUBD",
+            "avgExecutionTime": 262073.171875,
+            "avgMemoryUsed": 1495627.0,
+            "avgSolutionLength": 6.25,
+            "successRate": 1.0
+        },
+        {
+            "testId": 30,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "LBBRFRFRLUBDURDBUDFLDFUL",
+            "avgExecutionTime": 323220.25,
+            "avgMemoryUsed": 1684431.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 31,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "FLRLBFDUUULLFBRFRBDDUDRB",
+            "avgExecutionTime": 308453.5625,
+            "avgMemoryUsed": 1847223.0,
+            "avgSolutionLength": 8.0,
+            "successRate": 0.25
+        },
+        {
+            "testId": 32,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "UFDLULRFBFRBFUDDLLBUDBRR",
+            "avgExecutionTime": 333916.25,
+            "avgMemoryUsed": 2128460.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 33,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "LDFFURBULRDDRLURFUBBFDBL",
+            "avgExecutionTime": 309643.46875,
+            "avgMemoryUsed": 2381982.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 34,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "FRFBRFLUUUDBRDBLDRLBDLFU",
+            "avgExecutionTime": 307162.5,
+            "avgMemoryUsed": 2398038.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 35,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RFLDBLRRBLUBRUUDDULFDFBF",
+            "avgExecutionTime": 306527.6875,
+            "avgMemoryUsed": 2367136.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 36,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RDRLFLURFDUBFLBBDURLBFUD",
+            "avgExecutionTime": 304302.875,
+            "avgMemoryUsed": 2381273.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 37,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "DDBLDFFRUBBURLRDFLUULRBF",
+            "avgExecutionTime": 303284.0,
+            "avgMemoryUsed": 2727634.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 38,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RFUBLDLRLDLFFUDUUBBDRBFR",
+            "avgExecutionTime": 302398.46875,
+            "avgMemoryUsed": 2564704.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 39,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "LFRFUDDBURDLLBBRUBLFRFDU",
+            "avgExecutionTime": 302694.3125,
+            "avgMemoryUsed": 2585152.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 40,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DRUUBDRLLRDFLDUFBBFFBLUR",
+            "avgExecutionTime": 304355.3125,
+            "avgMemoryUsed": 2855731.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 41,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DBRULRFLUBFURLRDBBUDDLFF",
+            "avgExecutionTime": 301893.125,
+            "avgMemoryUsed": 3265435.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 42,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DLFFLUUDDUUFBRFBBLDRBLRR",
+            "avgExecutionTime": 299921.9375,
+            "avgMemoryUsed": 3639949.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 43,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "FDFULBBLRBDUBRUDUDLLRRFF",
+            "avgExecutionTime": 304754.46875,
+            "avgMemoryUsed": 3177430.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        },
+        {
+            "testId": 44,
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "UFBLDDFLRBDURLFURULBRFBD",
+            "avgExecutionTime": 303161.28125,
+            "avgMemoryUsed": 3375246.0,
+            "avgSolutionLength": 0.0,
+            "successRate": 0.0
+        }
+    ]
+}

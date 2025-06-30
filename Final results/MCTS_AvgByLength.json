@@ -1,0 +1,76 @@
+{
+    "resultData": [
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 1,
+            "avgExecutionTime": 2053.08837890625,
+            "avgMemoryUsed": 2324.199951171875,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 2,
+            "avgExecutionTime": 10696.845703125,
+            "avgMemoryUsed": 2647.199951171875,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 3,
+            "avgExecutionTime": 46408.65625,
+            "avgMemoryUsed": 2718.199951171875,
+            "avgSolutionLength": 3.6500000953674318,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 4,
+            "avgExecutionTime": 70461.8671875,
+            "avgMemoryUsed": 2288.0,
+            "avgSolutionLength": 4.699999809265137,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 5,
+            "avgExecutionTime": 160809.890625,
+            "avgMemoryUsed": 2000.5999755859375,
+            "avgSolutionLength": 8.600000381469727,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 6,
+            "avgExecutionTime": 205917.3125,
+            "avgMemoryUsed": 2770.800048828125,
+            "avgSolutionLength": 9.0,
+            "successRate": 0.949999988079071
+        },
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 7,
+            "avgExecutionTime": 455758.59375,
+            "avgMemoryUsed": 2984.60009765625,
+            "avgSolutionLength": 12.692307472229004,
+            "successRate": 0.6499999761581421
+        },
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 8,
+            "avgExecutionTime": 677287.625,
+            "avgMemoryUsed": 2691.800048828125,
+            "avgSolutionLength": 20.285715103149415,
+            "successRate": 0.3499999940395355
+        },
+        {
+            "algorithmName": "MCTS",
+            "shuffleLengthByBFS": 9,
+            "avgExecutionTime": 715982.875,
+            "avgMemoryUsed": 2715.199951171875,
+            "avgSolutionLength": 21.799999237060548,
+            "successRate": 0.25
+        }
+    ]
+}

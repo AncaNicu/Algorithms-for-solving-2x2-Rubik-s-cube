@@ -1,0 +1,76 @@
+{
+    "resultData": [
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 1,
+            "avgExecutionTime": 8.716784477233887,
+            "avgMemoryUsed": 0.4000000059604645,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 2,
+            "avgExecutionTime": 7.582280158996582,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 3,
+            "avgExecutionTime": 7.475024223327637,
+            "avgMemoryUsed": 130.39999389648438,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 4,
+            "avgExecutionTime": 12.606744766235352,
+            "avgMemoryUsed": 476.0,
+            "avgSolutionLength": 4.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 5,
+            "avgExecutionTime": 80.28607940673828,
+            "avgMemoryUsed": 2477.199951171875,
+            "avgSolutionLength": 5.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 6,
+            "avgExecutionTime": 185.27291870117188,
+            "avgMemoryUsed": 3543.60009765625,
+            "avgSolutionLength": 6.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 7,
+            "avgExecutionTime": 690.1001586914063,
+            "avgMemoryUsed": 6612.0,
+            "avgSolutionLength": 7.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 8,
+            "avgExecutionTime": 2951.9072265625,
+            "avgMemoryUsed": 25817.19921875,
+            "avgSolutionLength": 8.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "BFS",
+            "shuffleLengthByBFS": 9,
+            "avgExecutionTime": 12465.748046875,
+            "avgMemoryUsed": 122578.0,
+            "avgSolutionLength": 9.0,
+            "successRate": 1.0
+        }
+    ]
+}

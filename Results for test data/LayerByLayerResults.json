@@ -1,0 +1,454 @@
+{
+    "resultData": [
+        {
+            "testId": 0,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUUUBBRRRRFFDDDDFFLLLLBB",
+            "avgExecutionTime": 37.05129623413086,
+            "avgMemoryUsed": 2.0,
+            "avgSolutionLength": 49.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 1,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUUUFFRRLLFFDDDDBBLLRRBB",
+            "avgExecutionTime": 5.735625267028809,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 49.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 2,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "UUDDLRLRFFFFUUDDLRLRBBBB",
+            "avgExecutionTime": 5.895724773406982,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 37.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 3,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "DDUURLRLFFFFDDUURLRLBBBB",
+            "avgExecutionTime": 7.801350116729736,
+            "avgMemoryUsed": 1.0,
+            "avgSolutionLength": 37.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 4,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 1,
+            "shuffledCubeState": "FUFURRRRDFDFBDBDLLLLBUBU",
+            "avgExecutionTime": 7.593649864196777,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 19.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 5,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "UUUUFFLLLLBBDDDDBBRRRRFF",
+            "avgExecutionTime": 7.720200538635254,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 49.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 6,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "ULRDRDRDFBFBLUDRLULUFBFB",
+            "avgExecutionTime": 6.105000019073486,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 12.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 7,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "UULLURLDFFBBDDRRLDURBBFF",
+            "avgExecutionTime": 5.253450393676758,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 32.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 8,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "RURUBBDRDRFFLLDDFFLULUBB",
+            "avgExecutionTime": 6.184575080871582,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 30.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 9,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 2,
+            "shuffledCubeState": "LLUURUDLFFBBRRDDDLRUBBFF",
+            "avgExecutionTime": 5.564925193786621,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 32.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 10,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUFFLRLRDUDUBBDDRLRLBFBF",
+            "avgExecutionTime": 5.137225151062012,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 26.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 11,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUBRULRRLBUFLDFDRDLBFFBD",
+            "avgExecutionTime": 6.779000282287598,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 38.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 12,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "LBDURDFURFBLUDFRUBDLLFBR",
+            "avgExecutionTime": 5.086824893951416,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 20.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 13,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "UUUFRRDFFDFLDBDRLLBLBBUR",
+            "avgExecutionTime": 5.277500152587891,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 14,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 3,
+            "shuffledCubeState": "BDBDRRLLUBUBFDFDRLRLFUFU",
+            "avgExecutionTime": 6.427374839782715,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 30.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 15,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "LDURBFLURDBFLUDRBFRDLUBF",
+            "avgExecutionTime": 5.189424991607666,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 43.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 16,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "BLUFRDLBRDUBFDURUFRLFLDB",
+            "avgExecutionTime": 6.386124610900879,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 25.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 17,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "RFRDBDRUFLBDUBLLUUDLRBFF",
+            "avgExecutionTime": 5.0788750648498539,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 36.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 18,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "DULFDLUFBLRFBRUDBURDFLRB",
+            "avgExecutionTime": 5.2311248779296879,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 54.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 19,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 4,
+            "shuffledCubeState": "DBFRDLBBLFDRLDUUBUFFULRR",
+            "avgExecutionTime": 6.426724910736084,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 42.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 20,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DRUBRFFLRUBUULDBRFFLDBDL",
+            "avgExecutionTime": 4.984575271606445,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 38.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 21,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DUBURLURRFFBDLDFRULLFBDB",
+            "avgExecutionTime": 5.674975395202637,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 38.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 22,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "RUFLDBFRDBFDLRFBBLRULDUU",
+            "avgExecutionTime": 6.50629997253418,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 52.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 23,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "DBFULDDRDBFRLFUURLRULBFB",
+            "avgExecutionTime": 5.428549766540527,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 55.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 24,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 5,
+            "shuffledCubeState": "UDLFULDFBRFBLRDDBUFUBRRL",
+            "avgExecutionTime": 5.025224685668945,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 36.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 25,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "FUFBURRFRLDDBBURDDLLBLUF",
+            "avgExecutionTime": 6.140524864196777,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 34.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 26,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "LBFFURLLRRUDBFLUUDBRDFBD",
+            "avgExecutionTime": 5.1423749923706059,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 53.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 27,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "DFBLURBFRFDLLUDDBUBFULRR",
+            "avgExecutionTime": 6.226499557495117,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 47.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 28,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "ULDFUBBRLRRLDURBFFDFDLUB",
+            "avgExecutionTime": 5.21774959564209,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 43.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 29,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 6,
+            "shuffledCubeState": "BRURDUBLFFLRDDFURLLBFUBD",
+            "avgExecutionTime": 5.089900016784668,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 32.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 30,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "LBBRFRFRLUBDURDBUDFLDFUL",
+            "avgExecutionTime": 6.279224872589111,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 54.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 31,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "FLRLBFDUUULLFBRFRBDDUDRB",
+            "avgExecutionTime": 5.242599964141846,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 42.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 32,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "UFDLULRFBFRBFUDDLLBUDBRR",
+            "avgExecutionTime": 5.555775165557861,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 33.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 33,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "LDFFURBULRDDRLURFUBBFDBL",
+            "avgExecutionTime": 6.423050403594971,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 43.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 34,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 7,
+            "shuffledCubeState": "FRFBRFLUUUDBRDBLDRLBDLFU",
+            "avgExecutionTime": 5.285724639892578,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 45.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 35,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RFLDBLRRBLUBRUUDDULFDFBF",
+            "avgExecutionTime": 5.153224945068359,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 35.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 36,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RDRLFLURFDUBFLBBDURLBFUD",
+            "avgExecutionTime": 6.718874931335449,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 47.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 37,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "DDBLDFFRUBBURLRDFLUULRBF",
+            "avgExecutionTime": 5.2507500648498539,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 41.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 38,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "RFUBLDLRLDLFFUDUUBBDRBFR",
+            "avgExecutionTime": 6.27347469329834,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 46.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 39,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 8,
+            "shuffledCubeState": "LFRFUDDBURDLLBBRUBLFRFDU",
+            "avgExecutionTime": 5.291375160217285,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 42.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 40,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DRUUBDRLLRDFLDUFBBFFBLUR",
+            "avgExecutionTime": 5.0239996910095219,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 41.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 41,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DBRULRFLUBFURLRDBBUDDLFF",
+            "avgExecutionTime": 6.3425750732421879,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 57.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 42,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "DLFFLUUDDUUFBRFBBLDRBLRR",
+            "avgExecutionTime": 5.134475231170654,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 43.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 43,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "FDFULBBLRBDUBRUDUDLLRRFF",
+            "avgExecutionTime": 5.14739990234375,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 33.0,
+            "successRate": 1.0
+        },
+        {
+            "testId": 44,
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 9,
+            "shuffledCubeState": "UFBLDDFLRBDURLFURULBRFBD",
+            "avgExecutionTime": 6.127974987030029,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 33.0,
+            "successRate": 1.0
+        }
+    ]
+}
