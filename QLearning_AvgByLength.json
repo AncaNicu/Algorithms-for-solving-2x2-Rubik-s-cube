@@ -1,0 +1,76 @@
+{
+    "resultData": [
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 1,
+            "avgExecutionTime": 112292.6875,
+            "avgMemoryUsed": 615785.0,
+            "avgSolutionLength": 1.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 2,
+            "avgExecutionTime": 159824.390625,
+            "avgMemoryUsed": 819138.375,
+            "avgSolutionLength": 2.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 3,
+            "avgExecutionTime": 200711.953125,
+            "avgMemoryUsed": 953921.0,
+            "avgSolutionLength": 3.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 4,
+            "avgExecutionTime": 228080.953125,
+            "avgMemoryUsed": 1047007.8125,
+            "avgSolutionLength": 4.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 5,
+            "avgExecutionTime": 272211.40625,
+            "avgMemoryUsed": 1401094.75,
+            "avgSolutionLength": 5.176470756530762,
+            "successRate": 0.8500000238418579
+        },
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 6,
+            "avgExecutionTime": 291325.625,
+            "avgMemoryUsed": 1649559.625,
+            "avgSolutionLength": 6.5,
+            "successRate": 0.6000000238418579
+        },
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 7,
+            "avgExecutionTime": 316479.1875,
+            "avgMemoryUsed": 2088026.75,
+            "avgSolutionLength": 8.0,
+            "successRate": 0.05000000074505806
+        },
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 8,
+            "avgExecutionTime": 303841.4375,
+            "avgMemoryUsed": 2525179.75,
+            "avgSolutionLength": NaN,
+            "successRate": 0.0
+        },
+        {
+            "algorithmName": "QLearning",
+            "shuffleLengthByBFS": 9,
+            "avgExecutionTime": 302817.21875,
+            "avgMemoryUsed": 3262758.25,
+            "avgSolutionLength": NaN,
+            "successRate": 0.0
+        }
+    ]
+}

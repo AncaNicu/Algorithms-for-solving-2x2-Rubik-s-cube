@@ -1,0 +1,76 @@
+{
+    "resultData": [
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 1,
+            "avgExecutionTime": 12.815528869628907,
+            "avgMemoryUsed": 0.6000000238418579,
+            "avgSolutionLength": 38.20000076293945,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 2,
+            "avgExecutionTime": 6.165630340576172,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 31.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 3,
+            "avgExecutionTime": 5.741584777832031,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 23.399999618530275,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 4,
+            "avgExecutionTime": 5.662455081939697,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 40.0,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 5,
+            "avgExecutionTime": 5.523925304412842,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 43.79999923706055,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 6,
+            "avgExecutionTime": 5.56341028213501,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 41.79999923706055,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 7,
+            "avgExecutionTime": 5.757275104522705,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 43.400001525878909,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 8,
+            "avgExecutionTime": 5.737539768218994,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 42.20000076293945,
+            "successRate": 1.0
+        },
+        {
+            "algorithmName": "LayerByLayer",
+            "shuffleLengthByBFS": 9,
+            "avgExecutionTime": 5.555285453796387,
+            "avgMemoryUsed": 0.0,
+            "avgSolutionLength": 41.400001525878909,
+            "successRate": 1.0
+        }
+    ]
+}
